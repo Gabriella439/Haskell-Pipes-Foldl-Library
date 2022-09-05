@@ -4,17 +4,17 @@ Cabal-Version: >=1.8.0.2
 Build-Type: Simple
 License: BSD3
 License-File: LICENSE
-Copyright: 2013 Gabriel Gonzalez
-Author: Gabriel Gonzalez
-Maintainer: Gabriel439@gmail.com
-Bug-Reports: https://github.com/Gabriel439/Haskell-Pipes-Foldl-Library/issues
+Copyright: 2013 Gabriella Gonzalez
+Author: Gabriella Gonzalez
+Maintainer: GenuineGabriella@gmail.com
+Bug-Reports: https://github.com/Gabriella439/Haskell-Pipes-Foldl-Library/issues
 Synopsis: Folding utilities for pipes
 Description: This provides folds for pipes modified to work with the @foldl@
     library
 Category: Control, Pipes
 Source-Repository head
     Type: git
-    Location: https://github.com/Gabriel439/Haskell-Pipes-Foldl-Library
+    Location: https://github.com/Gabriella439/Haskell-Pipes-Foldl-Library
 
 Library
     HS-Source-Dirs: src
